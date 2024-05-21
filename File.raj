@@ -1,0 +1,4 @@
+1. SSH clone: SSH clone works with ssh keys which needs to uploaded the ssh public key from local machine to remote account settings.
+             All git operations via ssh keys are passwordless.
+
+command: git clone git@github.com:trainercloud2023/aws-automation-repo.git
